@@ -1,0 +1,9 @@
+.env
+*.pem
+*.key
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
+*.tfvars
+.aws/
+node_modules/
