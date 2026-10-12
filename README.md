@@ -1,5 +1,7 @@
 # Nexus AWS DevOps Platform
 
+> **Portfolio navigation:** [Browse my featured Cloud & DevOps projects](https://github.com/UyiGodfrey/nexus-devops-platform/blob/main/PORTFOLIO.md).
+
 End-to-end AWS DevOps engineering project.
 
 ## Project Goal
